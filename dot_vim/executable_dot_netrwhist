@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/usr/share/sddm/themes/endeavouros'
+let g:netrw_dirhist_3='/home/bnesbitt/.config/polybar/grayblocks/scripts'
+let g:netrw_dirhist_2='/home/bnesbitt/.config/polybar/grayblocks'
+let g:netrw_dirhist_1='/home/bnesbitt/.config/i3'
